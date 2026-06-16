@@ -1,0 +1,9 @@
+sample_id,step,hot_set_overlap,churn_rate,spearman_rank_corr
+local_001,0,nan,nan,nan
+local_001,1,1.0,0.0,0.5
+local_002,0,nan,nan,nan
+local_002,1,1.0,0.0,1.0
+long_001,0,nan,nan,nan
+long_001,1,1.0,0.0,0.6000000000000001
+long_002,0,nan,nan,nan
+long_002,1,1.0,0.0,1.0

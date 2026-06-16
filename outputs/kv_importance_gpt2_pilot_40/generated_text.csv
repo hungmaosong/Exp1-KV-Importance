@@ -1,0 +1,139 @@
+sample_id,generated_text
+local_01,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_02,"
+The main instruction is to perform a query.
+
+The query is to"
+local_03,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_04,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_05,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_06,"
+The main instruction is to read the aggregate metrics.
+
+The main instruction"
+local_07,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_08,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_09,"
+The main instruction is the following:
+
+The main instruction is the following"
+local_10,"
+The main instruction is the following:
+
+The main instruction is the following"
+early_recall_01,"
+The code for the routing ticket is ALPHA-17. This opening clue"
+early_recall_02,"
+The code for the cache ticket is BRAVO-29. This opening clue"
+early_recall_03,"
+The code for the profiling ticket is CIRRUS-41. This"
+early_recall_04,"
+The code for the memory ticket is DELTA-53. This opening clue"
+early_recall_05,"
+The code for the plot ticket is EMBER-65. This opening"
+early_recall_06,"
+The code for the stability ticket is FALCON-77. This opening"
+early_recall_07,"
+The code for the dataset ticket is GAMMA-89. This opening clue"
+early_recall_08,"
+The code for the decode ticket is HARBOR-91. This opening"
+early_recall_09,"
+The code for the chunk ticket is ION-103. This opening clue"
+early_recall_10,"
+The code for the summary ticket is JUNO-115. This opening"
+middle_recall_01,"
+The following validation phrases appear in the notebook:
+
+The following validation phrases"
+middle_recall_02,"
+The following validation phrases appear in the logbook:
+
+The following validation"
+middle_recall_03,"
+The following validation phrases appear in the middle evidence of the brief:
+
+"
+middle_recall_04,"
+The following validation phrases appear in the middle evidence of the dossier:
+
+"
+middle_recall_05,"
+The following validation phrases appear in the middle evidence of the ledger:
+
+"
+middle_recall_06,"
+The following validation phrases appear in the middle evidence of the packet:
+
+"
+middle_recall_07,"
+The following validation phrases appear in the middle evidence of the record:
+
+"
+middle_recall_08,"
+The transcript is a summary of the transcript. The transcript is not a complete"
+middle_recall_09,"
+The following validation phrases appear in the middle evidence of the digest:
+
+"
+middle_recall_10,"
+The validation phrase appears in the middle evidence of the worksheet.
+
+"
+comparison_01,"
+The first item is the first item in the context. The second item is"
+comparison_02,"
+The answer is:
+
+The answer is:
+
+The answer is"
+comparison_03,"
+Red queue: Red queue is the largest item in the context. Blue queue"
+comparison_04,"
+The first item is the reported value for evening pass. The second item is"
+comparison_05,"
+Static plan: The first-half value is the first-half value of"
+comparison_06,"
+The answer is:
+
+The answer is:
+
+The answer is"
+comparison_07,"
+Left bank:
+
+Left bank:
+
+Right bank:
+
+"
+comparison_08,"
+The first trial is the first trial. The second trial is the second trial"
+comparison_09,"
+Local batch:
+
+Local batch:
+
+Remote batch:
+
+"
+comparison_10,"
+The first item is the first item in the context. The second item is"
