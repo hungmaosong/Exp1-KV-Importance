@@ -1,0 +1,41 @@
+sample_id,generated_text
+local_01,The main instruction is to inspect attention mass before interpreting any chart.
+local_02,The main instruction is to archive every CSV beside its matching PNG figure.
+local_03,The main instruction is to compare local and long range requests separately.
+local_04,The main instruction is to stay on GPT-2 until the pipeline is stable
+local_05,The main instruction is to keep cold chunks visible in the exported tables.
+local_06,The main instruction is to check truncation logs before reading aggregate metrics.
+local_07,The main instruction is to treat generated text as debug material rather than a scored answer
+local_08,The main instruction is to confirm that all output files are produced inside the workspace
+local_09,The main instruction is to add up the mass values for each decode step.
+local_10,The main instruction is to use forty synthetic pilot samples.
+early_recall_01,The code for the routing ticket is ALPHA-17.
+early_recall_02,The code for the cache ticket is BRAVO-29.
+early_recall_03,The code for the profiling ticket was CIRRUS-41.
+early_recall_04,The code for the memory ticket is DELTA-53.
+early_recall_05,The code for the plot ticket is EMBER-65.
+early_recall_06,The code for the stability ticket is FALCON-77.
+early_recall_07,The code for the dataset ticket is GAMMA-89.
+early_recall_08,The code for the decode ticket is HARBOR-91.
+early_recall_09,The code for the chunk ticket is ION-103.
+early_recall_10,The code for the summary ticket is JUNO-115.
+middle_recall_01,The validation phrase in the middle evidence is blue quartz index.
+middle_recall_02,The validation phrase in the middle evidence is silver maple vector.
+middle_recall_03,The validation phrase in the middle evidence of the brief is amber orbit marker.
+middle_recall_04,The validation phrase in the middle evidence of the dossier is green atlas
+middle_recall_05,The validation phrase violet harbor key appears in the middle evidence of the led
+middle_recall_06,The validation phrase in the middle evidence is crimson delta route.
+middle_recall_07,The validation phrase in the middle evidence is white cobalt signal.
+middle_recall_08,The validation phrase in the middle evidence is orange lattice phrase.
+middle_recall_09,The validation phrase in the middle evidence is black lantern code.
+middle_recall_10,The validation phrase in the middle evidence is golden river checksum.
+comparison_01,"Beta stream has the larger value, 31."
+comparison_02,The answer is south cache.
+comparison_03,The answer is blue queue.
+comparison_04,Morning pass has a larger value than evening pass.
+comparison_05,"Dynamic plan has the larger value, 80."
+comparison_06,The answer is new shard.
+comparison_07,"The larger value is right bank, as the reported value for right bank is "
+comparison_08,The second trial has a larger value than the first trial.
+comparison_09,The larger value is remote batch.
+comparison_10,The larger value is pilot path.
