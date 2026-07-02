@@ -1,0 +1,106 @@
+sample_id,generated_text
+local_01,"The main instruction is to inspect attention mass before interpreting any chart.
+
+Context"
+local_02,The final paragraph of storage memo states that the main instruction is to archive every CSV
+local_03,The final paragraph of the scheduler memo states that the main instruction is to compare
+local_04,The main instruction is to stay on GPT-2 until the pipeline is stable
+local_05,The final paragraph of memory memo states that the manual loop observes full key value attention
+local_06,"The main instruction is to check truncation logs before reading aggregate metrics.
+
+"
+local_07,The final paragraph of quality memo states that the main instruction is to treat generated text
+local_08,The main instruction is to confirm that all output files are produced inside the workspace.
+local_09,"The main instruction is to add up the mass values for each decode step.
+"
+local_10,"The main instruction is to use forty synthetic pilot samples.
+
+Context:
+"
+early_recall_01,The code for the routing ticket is ALPHA-17. This opening clue is
+early_recall_02,"BRAVO-29
+
+Closing clue:
+The code for the"
+early_recall_03,Opening evidence: The code for the profiling ticket is CIRRUS-41
+early_recall_04,"DELTA-53
+
+Context:
+Opening evidence: The code for"
+early_recall_05,The code for the plot ticket is EMBER-65. This opening clue
+early_recall_06,"FALCON-77
+
+Closing clue:
+The code for the"
+early_recall_07,Opening evidence: The code for the dataset ticket is GAMMA-89. This
+early_recall_08,"HARBOR-91
+
+Context:
+Opening evidence: The code for"
+early_recall_09,The code for the chunk ticket is ION-103. This opening clue is
+early_recall_10,Opening evidence: The code for the summary ticket is JUNO-115.
+middle_recall_01,"The answer phrase is blue quartz index.
+
+Context:
+Pilot middle"
+middle_recall_02,"The answer is silver maple vector.
+
+Context:
+Pilot middle recall"
+middle_recall_03,"The middle evidence of the brief is amber orbit marker.
+
+Context:
+"
+middle_recall_04,"The middle evidence of the dossier contains the following validation phrase:
+
+Middle evidence"
+middle_recall_05,"The middle evidence of the ledger contains the following answer phrase:
+
+The middle"
+middle_recall_06,"The middle evidence of the packet is crimson delta route.
+
+Context:
+"
+middle_recall_07,The middle evidence is white cobalt signal. This middle clue is the answer and
+middle_recall_08,"The middle evidence of the transcript is the orange lattice phrase.
+
+Context"
+middle_recall_09,"The answer phrase is black lantern code.
+
+Context:
+Pilot middle"
+middle_recall_10,"The answer is golden river checksum.
+
+Context:
+Pilot middle"
+comparison_01,"The answer is alpha stream.
+
+Context:
+Comparison sample 02 asks"
+comparison_02,The answer is north cache. The larger value is 44. The smaller value is
+comparison_03,The answer is red queue. The larger value is 12. The smaller value is
+comparison_04,"The answer is the larger value.
+
+Context:
+Comparison sample 05"
+comparison_05,"The answer is static plan.
+
+Context:
+Comparison sample 06 asks"
+comparison_06,"The answer is: old shard.
+
+Context:
+Comparison sample"
+comparison_07,"The answer is left bank.
+
+Context:
+Comparison sample 08 asks"
+comparison_08,"The answer is the larger of the two reported values.
+
+Context:
+"
+comparison_09,The answer is local batch. The model reports a value of 14 for local batch
+comparison_10,"The model reports that pilot path has a larger value.
+
+Context:
+"

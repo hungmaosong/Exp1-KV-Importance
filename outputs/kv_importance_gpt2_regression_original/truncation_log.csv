@@ -1,0 +1,5 @@
+sample_id,type,original_tokens,truncated_tokens,max_input_tokens,was_truncated,strategy
+local_01,local,712,712,900,False,not_truncated
+early_recall_01,long_range,704,704,900,False,not_truncated
+middle_recall_01,long_range,703,703,900,False,not_truncated
+comparison_01,long_range,712,712,900,False,not_truncated

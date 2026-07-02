@@ -1,0 +1,17 @@
+sample_id,step,hot_set_overlap,churn_rate,spearman_rank_corr
+local_01,0,nan,nan,nan
+local_01,1,1.0,0.0,0.9860139860139862
+local_01,2,1.0,0.0,0.9930069930069931
+local_01,3,1.0,0.0,0.9930069930069931
+early_recall_01,0,nan,nan,nan
+early_recall_01,1,1.0,0.0,0.9930069930069931
+early_recall_01,2,1.0,0.0,0.9790209790209792
+early_recall_01,3,1.0,0.0,0.965034965034965
+middle_recall_01,0,nan,nan,nan
+middle_recall_01,1,0.5,0.5,0.6853146853146854
+middle_recall_01,2,1.0,0.0,0.9860139860139862
+middle_recall_01,3,1.0,0.0,0.9510489510489512
+comparison_01,0,nan,nan,nan
+comparison_01,1,1.0,0.0,0.9860139860139862
+comparison_01,2,1.0,0.0,0.9510489510489512
+comparison_01,3,1.0,0.0,0.9790209790209792

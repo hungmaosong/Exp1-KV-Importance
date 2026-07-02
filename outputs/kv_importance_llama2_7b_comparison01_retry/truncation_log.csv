@@ -1,0 +1,2 @@
+sample_id,type,original_tokens,truncated_tokens,max_input_tokens,was_truncated,strategy
+comparison_01,long_range,901,900,900,True,long_range:preserve_prefix_middle_tail

@@ -1,0 +1,87 @@
+sample_id,generated_text
+local_01,"The main instruction is to inspect attention mass before interpreting any chart. 
+"
+local_02,The main instruction is to archive every CSV beside its matching PNG figure. 
+local_03,"The main instruction is to compare local and long range requests separately. 
+
+"
+local_04,The main instruction is to stay on GPT-2 until the pipeline is stable
+local_05,The main instruction is to keep cold chunks visible in the exported tables.
+local_06,"The main instruction is to check truncation logs before reading aggregate metrics. 
+"
+local_07,The main instruction is to treat generated text as debug material rather than a scored answer
+local_08,The main instruction is to confirm that all output files are produced inside the workspace
+local_09,The main instruction is to add up the mass values for each decode step. 
+local_10,"The next experiment should use forty synthetic pilot samples. 
+
+Context:"
+early_recall_01,"The code for the routing ticket is ALPHA-17.
+
+"
+early_recall_02,"The code for the cache ticket is BRAVO-29.
+
+"
+early_recall_03,The manual loop observes full key value attention while preserving every past position.
+early_recall_04,The manual loop observes full key value attention while preserving every past position.
+early_recall_05,"The code for the plot ticket is EMBER-65.
+
+"
+early_recall_06,"The code for the stability ticket is FALCON-77.
+
+"
+early_recall_07,"The code for the dataset ticket is GAMMA-89.
+
+"
+early_recall_08,"The code for the decode ticket is HARBOR-91.
+"
+early_recall_09,"The code for the chunk ticket is ION-103.
+
+"
+early_recall_10,"The code for the summary ticket is JUNO-115.
+"
+middle_recall_01,"The validation phrase in the notebook is blue quartz index.
+
+##"
+middle_recall_02,"Silver maple vector.
+
+### 2.2.2."
+middle_recall_03,"The validation phrase in the brief is amber orbit marker.
+
+###"
+middle_recall_04,"The validation phrase in the dossier is green atlas token.
+
+"
+middle_recall_05,"violet harbor key
+
+### 2.2.2."
+middle_recall_06,"crimson delta route
+
+### 2.2.2.2"
+middle_recall_07,"The answer is white cobalt signal.
+
+### 2."
+middle_recall_08,"The validation phrase in the transcript is orange lattice phrase.
+
+###"
+middle_recall_09,"Black lantern code
+
+### 2.2.2.2"
+middle_recall_10,"golden river checksum
+
+### 2.2.2.2"
+comparison_01,The reported value for alpha stream is 18. This value must be compared
+comparison_02,The north cache value is 44 and the south cache value is 2
+comparison_03,The reported value for red queue is 12. The reported value for blue
+comparison_04,"The evening pass has a larger value. 
+
+Context:
+ Comparison"
+comparison_05,The reported value for static plan is 64. This value must be compared
+comparison_06,The reported value for old shard is 55. This value must be
+comparison_07,The reported value for left bank is 23. This value must be compared
+comparison_08,"The second trial has a larger value. 
+
+Context:
+ Comparison"
+comparison_09,The reported value for local batch is 14. This value must be compared
+comparison_10,The reported value for baseline path is 90. The reported value for

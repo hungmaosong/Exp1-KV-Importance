@@ -1,0 +1,5 @@
+sample_id,step,hot_set_overlap,churn_rate,spearman_rank_corr
+comparison_01,0,nan,nan,nan
+comparison_01,1,1.0,0.0,0.9857142857142854
+comparison_01,2,1.0,0.0,0.9928571428571428
+comparison_01,3,1.0,0.0,0.9928571428571428

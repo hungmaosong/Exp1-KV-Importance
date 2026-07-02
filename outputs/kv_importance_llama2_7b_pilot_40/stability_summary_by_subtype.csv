@@ -1,0 +1,5 @@
+subtype,hot_set_overlap_mean,hot_set_overlap_min,hot_set_overlap_max,churn_rate_mean,churn_rate_max
+local,0.97,0.5,1.0,0.03,0.5
+early_recall,0.92,0.5,1.0,0.08,0.5
+middle_recall,0.9066666666666666,0.5,1.0,0.09333333333333334,0.5
+comparison,1.0,1.0,1.0,0.0,0.0

@@ -1,0 +1,5 @@
+sample_id,allocated_bytes_after_cleanup,reserved_bytes_after_cleanup,peak_allocated_bytes,peak_reserved_bytes
+local_01,264877056,291504128,364614144,419430400
+early_recall_01,264877056,291504128,364240896,429916160
+middle_recall_01,264877056,291504128,364234752,429916160
+comparison_01,264877056,291504128,364614144,419430400
